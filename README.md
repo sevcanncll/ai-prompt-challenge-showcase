@@ -124,5 +124,5 @@ flowchart TD
 ---
 
 <div align="center">
-  <sub>Geliştirici: <b>AI Prompt Challenge Project Team</b> • Yıl: <b>2026</b></sub>
+  <sub>Geliştirici: <b>Sevcan Koç</b> • Yıl: <b>2026</b></sub>
 </div>
